@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C481AB3C215920710016EF38 /* MealTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C481AB3B215920710016EF38 /* MealTableViewController.swift */; };
+		C481AB3E215A63C70016EF38 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = C481AB3D215A63C70016EF38 /* .gitignore */; };
 		C4C615D72111EBBF0059B10B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4C615D62111EBBF0059B10B /* AppDelegate.swift */; };
 		C4C615D92111EBBF0059B10B /* MealViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4C615D82111EBBF0059B10B /* MealViewController.swift */; };
 		C4C615DC2111EBBF0059B10B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4C615DA2111EBBF0059B10B /* Main.storyboard */; };
@@ -31,6 +32,7 @@
 
 /* Begin PBXFileReference section */
 		C481AB3B215920710016EF38 /* MealTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealTableViewController.swift; sourceTree = "<group>"; };
+		C481AB3D215A63C70016EF38 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		C4C615D32111EBBF0059B10B /* FoodTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4C615D62111EBBF0059B10B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C4C615D82111EBBF0059B10B /* MealViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealViewController.swift; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 				C4C615DF2111EBC00059B10B /* LaunchScreen.storyboard */,
 				C4C615DD2111EBC00059B10B /* Assets.xcassets */,
 				C4C615E22111EBC00059B10B /* Info.plist */,
+				C481AB3D215A63C70016EF38 /* .gitignore */,
 			);
 			path = FoodTracker;
 			sourceTree = "<group>";
@@ -188,6 +191,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C481AB3E215A63C70016EF38 /* .gitignore in Resources */,
 				C4C615E12111EBC00059B10B /* LaunchScreen.storyboard in Resources */,
 				C4C615DE2111EBC00059B10B /* Assets.xcassets in Resources */,
 				C4C615DC2111EBBF0059B10B /* Main.storyboard in Resources */,
