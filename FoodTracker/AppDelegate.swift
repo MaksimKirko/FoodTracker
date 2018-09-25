@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  FoodTracker
 //
-//  Created by ws-039-41b on 8/1/18.
+//  Created by badgatsby on 8/1/18.
 //
 
 import UIKit
